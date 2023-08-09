@@ -1,7 +1,7 @@
 # Rotating-Donut
 
 # Compilation
- ```g++ main.cpp -o donut```
+ ```g++ main.cpp -o donut && ./donut```
  
 # Or run the compiled file
 ```./donut```
